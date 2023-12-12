@@ -1,0 +1,30 @@
+- model: shop.product
+  pk: 1
+  fields:
+    name: Кольцо с алмазом
+    price: 700000
+    amount: 5
+- model: shop.product
+  pk: 2
+  fields:
+    name: Картина Репина
+    price: 40000000
+    amount: 1
+- model: shop.product
+  pk: 3
+  fields:
+    name: Шуба из ценного меха
+    price: 500000
+    amount: 3
+- model: shop.product
+  pk: 4
+  fields:
+    name: Монета XVIII вв
+    price: 4000000
+    amount: 2
+- model: shop.product
+  pk: 5
+  fields:
+    name: Яхта
+    price: 90000000
+    amount: 1
